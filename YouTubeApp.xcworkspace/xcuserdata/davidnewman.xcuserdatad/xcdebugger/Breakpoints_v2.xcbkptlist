@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "719B3075-0FCE-449E-ACB5-6F944E53E89A"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "539D63A9-8F8F-4272-BFB0-04FF3E8DD598"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YouTubeApp/ViewModels/VideoPreview.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "init(video:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "539D63A9-8F8F-4272-BFB0-04FF3E8DD598 - 190d7801fdbda18c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Foundation.Data, Alamofire.AFError&gt;) -&gt; () in YouTubeApp.VideoPreview.init(video: YouTubeApp.Video) -&gt; YouTubeApp.VideoPreview"
+                  moduleName = "YouTubeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidnewman/Documents/Learning/CWC/YouTubeApp/YouTubeApp/ViewModels/VideoPreview.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "215">
+               </Location>
+               <Location
+                  uuid = "539D63A9-8F8F-4272-BFB0-04FF3E8DD598 - 190d7801fdbda18c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Foundation.Data, Alamofire.AFError&gt;) -&gt; () in YouTubeApp.VideoPreview.init(video: YouTubeApp.Video) -&gt; YouTubeApp.VideoPreview"
+                  moduleName = "YouTubeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidnewman/Documents/Learning/CWC/YouTubeApp/YouTubeApp/ViewModels/VideoPreview.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "321">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
