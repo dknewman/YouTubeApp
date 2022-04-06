@@ -7,5 +7,6 @@ target 'YouTubeApp' do
 
   # Pods for YouTubeApp
   pod 'Alamofire', '~> 5.5'
+  pod 'GoogleSignIn'
 
 end
