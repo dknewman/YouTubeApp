@@ -5,7 +5,7 @@ SwiftUI YouTube App using google APIs
 
 >• In this code I use Cococapods, AlamaoFire, and target iOS 14.
 
->• You will find the data model for the google API in the Video.swift file. Here you will see how layout your model to deal with nested JSON responses. 
+>• You will find the data model for the google API in the Video.swift file. Here you will see how to layout your model to deal with nested JSON responses. 
 
 >• If you clone this repo you will need to get your own Google API Key to use. 
 
